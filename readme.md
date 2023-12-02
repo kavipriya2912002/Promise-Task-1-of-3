@@ -1,0 +1,1 @@
+Using promise to retrive and display the data from the Rest countries api.
